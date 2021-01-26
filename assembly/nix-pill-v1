@@ -1,0 +1,25 @@
+Id	Designator	Package	Quantity	Designation	Part Number	 Cost 	 Total 	Link
+2	"C1,C4,C8,C10,C11,C12,C13"	C_0603_1608Metric	7	100n			 $-   	
+3	"C2,C3,C5,C6"	C_0603_1608Metric	4	20pF			 $-   	
+4	C7	CP_Elec_4x3	1	100n			 $-   	
+5	C9	CP_Elec_4x3	1	10u			 $-   	
+6	D1	LED_0603_1608Metric	1	C13	LTST-C190KRKT	 $0.24 	 $0.24 	https://www.digikey.com/en/products/detail/lite-on-inc/LTST-C190KRKT/386817?s=N4IgTCBcDaIDIBUDKCC0BhAjATgAwGkAlfBEAXQF8g
+7	D2	LED_0603_1608Metric	1	PWR	LTST-C190KRKT	 $0.24 	 $0.24 	https://www.digikey.com/en/products/detail/lite-on-inc/LTST-C190KRKT/386817?s=N4IgTCBcDaIDIBUDKCC0BhAjATgAwGkAlfBEAXQF8g
+8	D3	SOT-23	1	BAT54C	BAT54CLT1G	 $0.14 	 $0.14 	https://www.digikey.com/en/products/detail/on-semiconductor/BAT54CLT1G/920481
+9	J1	PinHeader_1x20_P2.54mm_Vertical	1	LEFT			 $-   	
+10	J2	PinHeader_2x03_P2.54mm_Vertical	1	BOOT			 $-   	
+11	J3	PinHeader_1x20_P2.54mm_Vertical	1	RIGHT			 $-   	
+12	J4	PinHeader_1x04_P2.54mm_Horizontal	1	SWD			 $-   	
+13	J5	USB_Micro-B_Amphenol_10103594-0001LF_Horizontal	1	USB_B_Micro	10103594-0001LF	0.75	 $0.75 	https://www.digikey.com/en/products/detail/amphenol-icc-fci/10103594-0001LF/2350351?s=N4IgTCBcDaIIwAZEGYCsBOALCAugXyA
+14	"R1,R2"	R_0603_1608Metric	2	510			 $-   	
+15	"R3,R4,R8"	R_0603_1608Metric	3	10k			 $-   	
+16	R5	R_0603_1608Metric	1	10K			 $-   	
+17	"R6,R7"	R_0603_1608Metric	2	22			 $-   	
+18	R9	R_0603_1608Metric	1	10M			 $-   	
+19	SW1	SW_SPST_TL3305A	1	USER0			 $-   	
+20	SW2	SW_SPST_TL3305A	1	NRST			 $-   	
+21	U1	SOT-223-3_TabPin2	1	AMS1117-3.3			 $-   	
+22	U2	LQFP-48_7x7mm_P0.5mm	1	STM32F103C8Tx	STM32F103C8T6	 $5.77 	 $5.77 	https://www.digikey.com/en/products/detail/stmicroelectronics/STM32F103C8T6/1646338
+23	Y1	Crystal_SMD_MicroCrystal_CC5V-T1A-2Pin_4.1x1.5mm	1	32.768KHz LSE			 $-   	
+24	Y2	Crystal_SMD_3225-4Pin_3.2x2.5mm	1	8MHz HSE			 $-   	
+						 Total 	 $7.14 	

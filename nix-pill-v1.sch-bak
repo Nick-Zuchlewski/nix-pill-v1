@@ -384,9 +384,9 @@ Text GLabel 3150 5100 0    50   Input ~ 0
 NRST
 Text GLabel 3150 5200 0    50   Input ~ 0
 C13
-Text GLabel 1800 4600 0    50   Input ~ 0
-A11
 Text GLabel 1800 4700 0    50   Input ~ 0
+A11
+Text GLabel 1800 4600 0    50   Input ~ 0
 A12
 $Comp
 L Connector_Generic:Conn_01x20 J1
