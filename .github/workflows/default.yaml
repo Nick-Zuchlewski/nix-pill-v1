@@ -2,9 +2,11 @@ name: default
 
 on:
   push:
-    paths:
-    - '**.sch'
-    - '**.kicad_pcb'
+    branches:
+      - '**'
+    # paths:
+    # - '**.sch'
+    # - '**.kicad_pcb'
   pull_request:
     paths:
       - '**.sch'
